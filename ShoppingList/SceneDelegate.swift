@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+//görünümle alakalı işlemler
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
